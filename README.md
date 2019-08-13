@@ -1,21 +1,22 @@
 
 ## 项目运行
+### Project clone
 ```
 git clone https://github.com/xiaonizi66/vue-ssr-demo  
 ```
-## Project setup
+### Project setup
 ```
 npm install
 ```
-## build sever
+### build sever
 ```
 npm run server:build
 ```
-## build cilent
+### build cilent
 ```
 npm run cilent:build
 ```
-## run server
+### run server
 ```
 nodemon server.js
 ```
@@ -58,3 +59,8 @@ SSR优点：
 │   │   ├── store.js                            // vuex的状态管理
 ├── favicon.ico                                 // 图标
 ```
+# 说明
+
+>  如果对您有帮助，您可以点右上角 "Star" 支持一下 谢谢！ ^_^
+
+>  或者您可以 "follow" 一下，我会不断开源更多的有趣的项目
