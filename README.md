@@ -53,7 +53,7 @@ SSR优点：
 │   │── App.vue                                 // Vue应用的根组件
 │   │── main.js                                 //  入口基础文件
 │   ├── client-entry.js                         // 浏览器环境入口
-│   ├── server-entry.js                         // 浏览器环境入口
+│   ├── server-entry.js                         // 服务器环境入口
 │   │   ├── router.js                           // 路由配置
 │   │   ├── store.js                            // vuex的状态管理
 ├── favicon.ico                                 // 图标
